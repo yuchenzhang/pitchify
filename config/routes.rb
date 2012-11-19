@@ -1,4 +1,5 @@
 Pitchify::Application.routes.draw do
+  root to: 'landing#show'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
