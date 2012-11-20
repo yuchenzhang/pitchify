@@ -8,7 +8,8 @@ body{
 	display: block;
 	position:relative;
 	left: 50%;
-	margin: 10px auto auto -237px;
+	margin: 10px auto auto -237px; 
+	width: 0;
 	img{
 		width: 473px;
 	}
@@ -37,5 +38,9 @@ body{
 	font-style: italic;
 	color: #898989; 
 	text-align: center;
+}
+
+.product{
+		color: #a25400;
 }
 
