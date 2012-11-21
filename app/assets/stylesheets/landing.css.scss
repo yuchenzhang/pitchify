@@ -18,9 +18,9 @@ body{
 #headline{
 	display: block;
 	position: relative;
-	width: 900px;
+	width: 1000px;
 	left: 50%;
-	margin: 50px auto auto -450px; 
+	margin: 50px auto auto -500px; 
 	font-family: arial;
 	font-size: 60px;
 	color: #898989; 
@@ -32,15 +32,30 @@ body{
 	position: relative;
 	width: 900px;
 	left: 50%;
-	margin: 50px auto auto -450px; 
+	margin: 120px auto auto -450px; 
 	font-family: arial;
-	font-size: 30px;
+	font-size: 24px;
 	font-style: italic;
-	color: #898989; 
+	color: #0084ff; 
 	text-align: center;
 }
 
 .product{
 		color: #a25400;
+}
+
+iframe{
+	height: 25px !important;
+}
+
+.social{
+	width: 200px;
+	margin-top: 20px;
+	position: absolute;
+	top: 0px;
+}
+
+a{
+	text-decoration: none;
 }
 
